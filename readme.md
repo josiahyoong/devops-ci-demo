@@ -15,3 +15,4 @@ This is a demo repository to support a lesson on Continuous Integration.
 
 1. Open `sum.test.js` file
 1. Change the first test's assertion from `toBe(2)` to `toBe(3)`
+1. Run `npm run test` again
