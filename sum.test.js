@@ -9,7 +9,7 @@ test("1 + 1 = 2", () => {
     const result = targetFn(n1, n2);
 
     // Assert result
-    expect(result).toBe(2); // To fail the test, change update code to `.toBe(3)`
+    expect(result).toBe(3); // To fail the test, change update code to `.toBe(3)`
 })
 
 test("1 + a = null", () => {
